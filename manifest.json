@@ -2,7 +2,7 @@
    "name": "Mine Extension for Google Reader",
    "description": "unstar and add tag and open page for Google Reader",
    "permissions": [ "tabs", "http://*/", "https://*/","http://www.google.com/*" ],
-   "version": "1.0",
+   "version": "1.1.6",
    "content_scripts": [ {
       "js": [ "base.js" ],
       "run_at": "document_end",
